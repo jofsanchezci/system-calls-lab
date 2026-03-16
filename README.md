@@ -20,7 +20,7 @@ gcc lab1_fork_basico.c -o lab1
 ./lab1
 
 ## Estructura
-
+```
 system-calls-lab/
 │
 ├── README.md
@@ -31,7 +31,7 @@ system-calls-lab/
 ├── lab5_read_file.c
 ├── lab6_fork_file.c
 └── lab7_fork_exec_wait.c
-
+```
 # Laboratorio: Procesos y Manejo de Archivos en C
 
 ## Sistemas Operativos
